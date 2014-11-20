@@ -1,1 +1,1 @@
-initial commit
+repository for JAVA practice
